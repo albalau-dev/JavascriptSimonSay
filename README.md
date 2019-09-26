@@ -1,2 +1,2 @@
-Juego Simon (Simón dice), en el que se van iluminando una secuencia de botones que el jugador tendrá que ir repitiendo, 
-si se equivoca volverá a comenzar. El juego tendrá 10 niveles de dificultad, que deberán ser superados para ganar.
+Game Simon (Simón says), in which a sequence of buttons that the player will have to repeat is illuminated,
+If you make a mistake it will start again. The game will have 10 difficulty levels, which must be overcome to win
