@@ -5,7 +5,7 @@
       const azul = document.getElementById('azul')
       const btnEmpezar = document.getElementById('btnEmpezar')
       //Level definition
-      const ULTIMO_NIVEL = 3
+      const ULTIMO_NIVEL = 7
       btnEmpezar.addEventListener('click', empezarJuego)
       
       class Juego {
@@ -106,7 +106,7 @@
         elegirColor(ev){
          const nombreColor = ev.target.dataset.color
          const numeroColor = this.transformarColorANumero(nombreColor)
-         
+
          this.iluminarColor(nombreColor)
          if(numeroColor === this.secuencia[this.subnivel]){
 
